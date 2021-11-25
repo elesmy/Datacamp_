@@ -1,3 +1,3 @@
 # Datacamp_
 
-This are projects completed in the Data Science, DataCamp course. 
+These are a series of projects completed in the Data Science, DataCamp course. 
